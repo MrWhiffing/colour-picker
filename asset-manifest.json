@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/colour-picker/static/js/main.5f5e380a.js",
+    "static/js/787.89bca4e3.chunk.js": "/colour-picker/static/js/787.89bca4e3.chunk.js",
+    "index.html": "/colour-picker/index.html",
+    "main.5f5e380a.js.map": "/colour-picker/static/js/main.5f5e380a.js.map",
+    "787.89bca4e3.chunk.js.map": "/colour-picker/static/js/787.89bca4e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f5e380a.js"
+  ]
+}
